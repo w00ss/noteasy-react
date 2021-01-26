@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/noteasy-react.git/static/css/main.bebafa58.chunk.css",
+    "main.js": "/noteasy-react.git/static/js/main.9fb22de4.chunk.js",
+    "main.js.map": "/noteasy-react.git/static/js/main.9fb22de4.chunk.js.map",
+    "runtime-main.js": "/noteasy-react.git/static/js/runtime-main.469699b5.js",
+    "runtime-main.js.map": "/noteasy-react.git/static/js/runtime-main.469699b5.js.map",
+    "static/js/2.3b6e81ec.chunk.js": "/noteasy-react.git/static/js/2.3b6e81ec.chunk.js",
+    "static/js/2.3b6e81ec.chunk.js.map": "/noteasy-react.git/static/js/2.3b6e81ec.chunk.js.map",
+    "index.html": "/noteasy-react.git/index.html",
+    "static/css/main.bebafa58.chunk.css.map": "/noteasy-react.git/static/css/main.bebafa58.chunk.css.map",
+    "static/js/2.3b6e81ec.chunk.js.LICENSE.txt": "/noteasy-react.git/static/js/2.3b6e81ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.469699b5.js",
+    "static/js/2.3b6e81ec.chunk.js",
+    "static/css/main.bebafa58.chunk.css",
+    "static/js/main.9fb22de4.chunk.js"
+  ]
+}

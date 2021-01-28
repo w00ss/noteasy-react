@@ -1,11 +1,10 @@
 # NOTEasy
 
-https://github.com/w00ss/NOTEasy<br>
+<h2>전에 만들었던 웹페이지를 react로 재개발 해봤습니다.</h2>
 https://w00ss.github.io/noteasy-react/<br>
-전에 만들었던 웹페이지를 react로 재개발 해봤습니다.<br>
+original : https://github.com/w00ss/NOTEasy<br><br>
 
-
-21.01.28<br>
+<h3>21.01.28</h3>
 <ul>
   <li>공백 하나만 들어가도 노트 추가되던거 수정.</li>
   <li>노트 수정 중에 취소하면 수정 된 노트가 표시되던거 원본이 보이도록 함.</li>

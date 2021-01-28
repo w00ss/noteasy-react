@@ -1,6 +1,6 @@
 # NOTEasy
 
-<h2>전에 만들었던 웹페이지를 react로 재개발 해봤습니다.</h2>
+<h2>전에 만들었던 웹페이지를 react로 다시 만들어봤습니다.</h2>
 https://w00ss.github.io/noteasy-react/<br>
 original : https://github.com/w00ss/NOTEasy<br><br>
 

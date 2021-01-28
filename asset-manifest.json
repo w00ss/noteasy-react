@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/noteasy-react/static/css/main.1013a905.chunk.css",
-    "main.js": "/noteasy-react/static/js/main.9af0fc40.chunk.js",
-    "main.js.map": "/noteasy-react/static/js/main.9af0fc40.chunk.js.map",
+    "main.css": "/noteasy-react/static/css/main.6790ae67.chunk.css",
+    "main.js": "/noteasy-react/static/js/main.ff4ecc7c.chunk.js",
+    "main.js.map": "/noteasy-react/static/js/main.ff4ecc7c.chunk.js.map",
     "runtime-main.js": "/noteasy-react/static/js/runtime-main.88648cff.js",
     "runtime-main.js.map": "/noteasy-react/static/js/runtime-main.88648cff.js.map",
     "static/js/2.97f0fe3f.chunk.js": "/noteasy-react/static/js/2.97f0fe3f.chunk.js",
     "static/js/2.97f0fe3f.chunk.js.map": "/noteasy-react/static/js/2.97f0fe3f.chunk.js.map",
     "index.html": "/noteasy-react/index.html",
-    "static/css/main.1013a905.chunk.css.map": "/noteasy-react/static/css/main.1013a905.chunk.css.map",
+    "static/css/main.6790ae67.chunk.css.map": "/noteasy-react/static/css/main.6790ae67.chunk.css.map",
     "static/js/2.97f0fe3f.chunk.js.LICENSE.txt": "/noteasy-react/static/js/2.97f0fe3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88648cff.js",
     "static/js/2.97f0fe3f.chunk.js",
-    "static/css/main.1013a905.chunk.css",
-    "static/js/main.9af0fc40.chunk.js"
+    "static/css/main.6790ae67.chunk.css",
+    "static/js/main.ff4ecc7c.chunk.js"
   ]
 }
